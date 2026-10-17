@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Device Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Device Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">747fc2bc9d12321055903da570aff023</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-17 06:17:30</sys_created_on>
+        <sys_id>3b98edacc3c89b945f365d02b4013177</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Request</sys_name>
+        <sys_package display_value="AnujTest" source="x_1716475_anujtest">36e661e8c3c89b945f365d02b40131ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AnujTest">36e661e8c3c89b945f365d02b40131ad</sys_scope>
+        <sys_update_name>sys_wizard_answer_3b98edacc3c89b945f365d02b4013177</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-17 06:17:30</sys_updated_on>
+        <table/>
+        <target_url>x_1716475_anujtest_device_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
